@@ -7,3 +7,11 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be applied in healthcare, where it helps analyze data to personalize treatment plans and improve diagnostic accuracy. 
 For example, ML algorithms can analyze medical imaging data to detect early-stage cancer with higher precision helping in earlier intervention and better patient outcomes.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge creates a new "merge commit" to combine divergent branch histories. Rebase, on the other hand, moves a branch's commits to the top of another branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to enjoying more concerts, hanging out with my friends, learning new Computer Science topics, and doing Leetcode!
