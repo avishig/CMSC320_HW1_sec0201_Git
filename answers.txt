@@ -2,3 +2,8 @@ Q1: Why might we consider using Git?
 
 Answer: We consider using Git because it is a powerful version control system that allows us to track changes in their code over time, 
 collaborate effectively with team members, and maintain a complete history of changes.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied in healthcare, where it helps analyze data to personalize treatment plans and improve diagnostic accuracy. 
+For example, ML algorithms can analyze medical imaging data to detect early-stage cancer with higher precision helping in earlier intervention and better patient outcomes.
